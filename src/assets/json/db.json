@@ -1,0 +1,69 @@
+{
+  "barChart": [
+    {
+      "blabel": "Jan",
+      "value": 200
+    },
+    {
+      "blabel": "Feb",
+      "value": 100
+    },
+    {
+      "blabel": "Mar",
+      "value": 250
+    },
+    {
+      "blabel": "Apr",
+      "value": 500
+    },
+    {
+      "blabel": "May",
+      "value": 300
+    },
+    {
+      "blabel": "June",
+      "value": 350
+    },
+    {
+      "blabel": "Jul",
+      "value": 250
+    },
+    {
+      "blabel": "Aug",
+      "value": 100
+    },
+    {
+      "blabel": "Sep",
+      "value": 500
+    },
+    {
+      "blabel": "Oct",
+      "value": 1000
+    },
+    {
+      "blabel": "Nov",
+      "value": 800
+    },
+    {
+      "blabel": "Dec",
+      "value": 900
+    }
+  ],
+  "doughnutChart": [
+    {
+      "dlabel": "registered",
+      "value": 4000,
+      "color": "orange"
+    },
+    {
+      "dlabel": "unregistered",
+      "value": 8000,
+      "color": "red"
+    },
+    {
+      "dlabel": "device error",
+      "value": 2000,
+      "color": "blue"
+    }
+  ]
+}
